@@ -1,5 +1,5 @@
 name: "🚀 Project Submission"
-description: "Submit your project for the Hackathon"
+description: "Submit your project for SIH 2026"
 title: "[Submission]: <Your Project Name>"
 labels: ["project-submission"]
 assignees: []
@@ -8,8 +8,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        # 🎉 Hackathon Project Submission
-        Thank you for participating in the hackathon! 🚀  
+        <img src="https://raw.githubusercontent.com/iedccsemce/Sih-2026/main/image.png" alt="SIH 2026" width="250" />
+
+        # 🎉 SIH 2026 Project Submission
+        Thank you for participating in SIH 2026! 🚀  
         Fill out the title and the details below to submit your project for review.
 
   - type: input
@@ -66,7 +68,7 @@ body:
       label: Code of Conduct & Submission Agreement
       description: By submitting this project, you agree to follow our rules.
       options:
-        - label: I confirm that this project is my original work and follows the Hackathon guidelines.
+        - label: I confirm that this project is my original work and follows the SIH 2026 guidelines.
           required: true
         - label: I understand my submission will be evaluated based on code quality, functionality, and innovation.
           required: true

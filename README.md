@@ -1,6 +1,8 @@
-# 🚀 Hackathon Submission Template using GitHub Actions
+<img src="image.png" alt="SIH 2026" width="250" />
 
-This repository provides an **automated workflow** to manage **hackathon project submissions** using **GitHub Issues & Pull Requests**.
+# 🚀 SIH 2026 Submission Template using GitHub Actions
+
+This repository provides an **automated workflow** to manage **SIH 2026 project submissions** using **GitHub Issues & Pull Requests**.
 
 ## 📌 Features
 
@@ -67,7 +69,7 @@ This repository provides an **automated workflow** to manage **hackathon project
 
 ## ⚠️ Important Notes
 
-- **Deadline:** The current submission deadline is **June 30, 2025**. Update the deadline in `config.yml` at the root of the repository to change it. The workflow reads the deadline from this YAML config file.
+- **Deadline:** The current submission deadline is **August 10, 2026, 7:00 PM IST**. Update the deadline in `config.yml` at the root of the repository to change it. The workflow reads the deadline from this YAML config file.
 - **Late Submissions:** PRs submitted after the deadline will be marked with `[LATE]` in the title and the `late-submission` label. Reviewers can still approve and merge late submissions, but they will be clearly marked.
 - **Template Format:** The workflows require the issue template format to remain unchanged. If you modify the template, update the extraction logic in the workflow accordingly.
 - **Repository Cloning:** Only public repositories under 100MB will be cloned. Private or oversized repositories will be skipped, and maintainers will be notified of any failures.
