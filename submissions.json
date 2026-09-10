@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Abhinav Manoj",
+    "project_name": "SatQueryAI",
+    "repository_url": "https://github.com/abhinavmanoj05/SatqueryAI",
+    "description": "SatQuery AI is an agentic vision-language assistant for multimodal satellite remote-sensing analysis through natural-language queries. Developed for ISRO (SIH26167), it orchestrates specialist models—ViT-Base, ResNet-18, PaliGemma, InternVL2, and Qwen2-VL—across Sentinel-1 SAR and Sentinel-2 optical imagery. It supports land-cover classification, visual question answering (VQA), spatial grounding with bounding boxes, bi-temporal change detection, and automated intelligence dossiers through an interactive workspace."
+  }
+]
