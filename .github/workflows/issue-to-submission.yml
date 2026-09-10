@@ -66,30 +66,10 @@ jobs:
               return;
             }
 
-            // Check for required headings to ensure template format
-            const requiredHeadings = [
-              '### Name',
-              '### Project Name',
-              '### GitHub Repository URL',
-              '### Project Description'
-            ];
-            for (const heading of requiredHeadings) {
-              if (!body.includes(heading)) {
-                core.setFailed('Issue template format has changed or is incomplete.');
-                await github.rest.issues.createComment({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: issue.number,
-                  body: `❌ **Error:** The issue template format is incorrect or missing required headings. Please use the official submission template.`
-                });
-                return;
-              }
-            }
-
             const nameMatch = body.match(/### Name\s*\n\s*([^\n]+)/);
             const projectMatch = body.match(/### Project Name\s*\n\s*([^\n]+)/);
             const repoMatch = body.match(/### GitHub Repository URL\s*\n\s*([^\n]+)/);
-            const descMatch = body.match(/### Project Description\s*\n*([\s\S]*?)(?=###|$)/);
+            const descMatch = body.match(/### Project Description\s*\n\s*([\s\S]*?)(?=###|$)/);
 
             if (!nameMatch || !projectMatch || !repoMatch || !descMatch) {
               core.setFailed('Could not extract all required information from issue');
@@ -121,7 +101,7 @@ jobs:
             # Check if this repo URL already exists
             REPO_URL=$(echo $SUBMISSION | jq -r '.repository_url')
             DUPLICATE=$(jq --arg url "$REPO_URL" '.[] | select(.repository_url==$url) | .repository_url' submissions.json)
-            
+
             if [ ! -z "$DUPLICATE" ]; then
               echo "Updating existing submission..."
               jq --argjson new_submission "$SUBMISSION" 'map(if .repository_url == ($new_submission.repository_url) then $new_submission else . end)' submissions.json > submissions_new.json
