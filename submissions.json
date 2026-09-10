@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Abhishek S",
+    "project_name": "PAIMANA Sentinel",
+    "repository_url": "https://github.com/Ninja007-NJ/paimana_sentinel_final_draft",
+    "description": "What does it do?\nSentinel AI monitors infrastructure projects, evaluates their performance, and predicts the likelihood of delays over the next three months.\n\nWhat technologies were used?\nIt uses LLM integreation, machine learning, data analytics, predictive modeling, and a web based dashboard to process project performance data and generate actionable insights.\n\nWhy did you create it?\nTo shift infrastructure monitoring from reactive status reporting to early risk detection and proactive decision making.\n\nWhat are the key features?\nKey features include project risk scoring, three month delay prediction, indicator based analysis, explainable risk factors, performance benchmarking, and recommendations."
+  }
+]
