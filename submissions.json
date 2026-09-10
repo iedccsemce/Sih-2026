@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Varsha G",
+    "project_name": "Bhoomi-X",
+    "repository_url": "https://github.com/yorixchi/hackathon",
+    "description": "BHOOMI-X is an AI-based cadastral mapping system that processes drone images to identify land parcels and features such as buildings, roads, vegetation, and water bodies. It was created to reduce manual surveying work and help authorities quickly identify changes or discrepancies in land records. The project uses Next.js, React, and TypeScript for the frontend, and Python, FastAPI, OpenCV, YOLO, and GeoJSON for the backend, AI, image processing, and mapping. Key features include drone-image analysis, automated feature extraction, candidate parcel mapping, change detection, risk scoring, interactive cadastral maps, and a verification system for officials."
+  }
+]
