@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Anshaj Shaji",
+    "project_name": "Centralized Platform for e-Auctions and Compliant Verification",
+    "repository_url": "https://github.com/plgdin/SIH",
+    "description": "This is an AI-powered platform that unifies government auctions and procurement opportunities from **MSTC, GeM, and other platforms.** It extracts catalogue information using OCR, enables semantic search, ROI estimation, watchlists, and logistics management, and includes a Compliance Engine that verifies tender requirements using configurable, evidence-based rules.\n\nThe technology stack includes React/Angular, TypeScript, Vite, Tailwind CSS, Zustand, TanStack Query, Vercel, Supabase/PostgreSQL, pgvector, Tesseract.js, Puppeteer, Recharts, and D3.js.\n\nThe platform is feasible and scalable through modular integrations. It addresses challenges such as varying data formats, changing websites, and complex tender documents.\n\nIts main benefits are unified discovery, time savings, reduced government workload, faster tender evaluation, fewer human errors, improved transparency, and evidence-backed compliance verification."
+  }
+]
