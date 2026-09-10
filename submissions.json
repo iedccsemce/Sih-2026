@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Team Sahayog",
+    "project_name": "Cooperative gig services platform",
+    "repository_url": "https://github.com/antontdcruz-byte/Sahayog",
+    "description": "Cooperative gig platform"
+  }
+]
