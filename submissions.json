@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Aagneya Bhanu S.A",
+    "project_name": "ADSS",
+    "repository_url": "https://github.com/Aagneya12/ADSS",
+    "description": "[SONAR SYS-1 (1).pptx](https://github.com/user-attachments/files/32061043/SONAR.SYS-1.1.pptx)\nThe full waveform is precomputed once and stored in memory, then streamed to the DAC via hardware timer + DMA zero CPU involvement per sample, letting the processor sleep between pulses for maximum efficiency. For unexpected conditions outside known presets, the CPU briefly wakes to compute a new waveform on the fly, using double buffering so DMA keeps streaming without interruption- keeping the system power efficient by default, yet still adaptive to genuinely novel scenarios"
+  }
+]
