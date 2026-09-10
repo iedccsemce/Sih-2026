@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Stebisha Judin S",
+    "project_name": "Disaster management app",
+    "repository_url": "https://github.com/ASCO0000/CrisisX",
+    "description": "CrisisX is an integrated disaster management platform designed to support people before, during, and after disasters. The system provides real-time alerts, safety awareness, SOS emergency assistance, AI-based priority assignment, missing person tracking, safe zone navigation, volunteer support, and relief camp resource management. By combining disaster preparedness, response, and recovery into a single platform, CrisisX aims to improve community safety and reduce disaster impact."
+  }
+]
