@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Abhay Parameswer R",
+    "project_name": "ORCA",
+    "repository_url": "https://github.com/abhay-7-7-7/orca",
+    "description": "An agentic, conversational, and geospatial decision-support platform empowering Indian fishermen and marine stakeholders with hazard-aware ocean navigation, live fishing zone intelligence, and proactive maritime safety.\n\nInstead of simply displaying raw map layers or acting as a passive weather dashboard, ORCA answers two critical questions every mariner asks before casting off:\n\n\"Where are the fish today, and what is the safest, fuel-efficient sea route to reach them right now?\"\n\nPython 3.11+ \nFastAPI\n React 18 \nTypeScript \nLeaflet"
+  }
+]
