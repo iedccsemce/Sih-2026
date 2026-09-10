@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Govardhan R Dev",
+    "project_name": "HireME",
+    "repository_url": "https://github.com/govardhan-r-dev/HireMe",
+    "description": "HIREME is an AI-powered platform designed to bridge the gap between students, academia, freelancers, and industry. It helps students build a dynamic Skill Passport by analyzing their CVs, projects, certifications, skills, and achievements. The platform identifies skill gaps and provides personalized recommendations for learning, projects, assessments, internships, jobs, and freelance opportunities. Companies can find suitable candidates based on verified skills, while colleges can understand changing industry requirements and improve student readiness. HIREME aims to transform the journey from learning to employment by connecting the right skills with the right opportunities, improving practical experience, skill visibility, industry collaboration, and career opportunities."
+  }
+]
