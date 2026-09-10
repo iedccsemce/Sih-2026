@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Martin Job",
+    "project_name": "SkillBridge",
+    "repository_url": "https://github.com/arjuncoder592/Devcrew",
+    "description": "SkillBridge is a web platform that connects students, colleges and companies to bridge the gap between claimed skills and actual skills. Students can add their skills, take Level 1–3 assessments, find their skill gaps, follow a roadmap, complete industry simulations and build practical evidence for internships and placements. Colleges can track skill gaps, while companies can find students based on their skills. We use React + Vite, Node.js + Express and PostgreSQL. The main features are skill assessment, skill-gap analysis, industry simulations, student profiles, company matching and industry feedback."
+  }
+]
