@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Arjun R S",
+    "project_name": "Inspection App",
+    "repository_url": "https://github.com/vishalvarghese1926/Automate-X",
+    "description": "Project Overview\nINSPECTRA is a smart mobile-based inspection and monitoring system designed to simplify and digitize field inspections. It enables officials to assign inspection tasks and allows inspectors to capture GPS location, photos, videos, observations, and reports directly from the inspection site. The collected information can be accessed through a centralized dashboard for monitoring and verification. The system also incorporates random video verification and basic AI-assisted analysis to identify unusual or incomplete records, improving transparency, accountability, and overall inspection efficiency."
+  }
+]
