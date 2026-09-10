@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Darshan",
+    "project_name": "Sookshmadarshini",
+    "repository_url": "https://github.com/RAHULBM123/SIH-2026-Team-Darshan-Submission.git",
+    "description": "Sookshmadarshini \n\nWhat does it do?\nAn AI-powered real-time social media monitoring and compliance platform that detects trends, sentiments, emotions, risks, and influential networks from public data.\n\nTechnologies used:\nAI/ML, NLP, sentiment & emotion analysis, network analysis, real-time data processing, and a web-based intelligence dashboard.\n\nWhy did we create it?\nTo help authorized government agencies detect emerging threats and harmful narratives early instead of manually monitoring huge volumes of social-media data.\n\nKey features:\n\nReal-time monitoring\n\nSentiment & 7-emotion analysis\n\nSarcasm detection\n\nTrend/narrative detection\n\nNetwork & influence analysis\n\nPrivacy-first profiling\n\nCompliance/risk alerts\n\nActionable intelligence dashboard"
+  }
+]
