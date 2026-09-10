@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Bhavana Krishna J S",
+    "project_name": "Adaptive Variable Resolution 2.5D Lidar Mapping for Dynamic Environment Perception",
+    "repository_url": "https://github.com/bhavanakjs/TECHNOVA.git",
+    "description": "It converts 3D LiDAR point clouds into an adaptive 2.5D semantic elevation grid for navigation and situational awareness. \nTechnologies used are Python, NumPy, Matplotlib, Tkinter, and Spatial Hashing algorithms.\nIt is created to solve the computational and memory bottleneck of processing heavy 3D point clouds on resource-constrained embedded edge hardware.\nThe key features include Foveated multi-resolution zoning , kinematic motion filtering, surface defect mapping (potholes/speed humps), and real-time predictive ADAS warnings."
+  }
+]
