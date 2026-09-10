@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Sivaprakash J",
+    "project_name": "AEROPULSE",
+    "repository_url": "https://github.com/akshxyzx-dotcom/aeropulse",
+    "description": "AeroPulse is an Airfare Price Index system that tracks and analyzes flight fare trends across major Indian routes. It collects and cleans flight price data, calculates route-level and national airfare indices using weighted index methodology, and presents the results through an interactive dashboard. The system provides airfare trends, route comparisons, booking-horizon analysis, and route predictions to help users understand fare movements and make better travel decisions."
+  }
+]
