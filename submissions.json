@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Abhinandan S",
+    "project_name": "Passive H2S Dosimeter",
+    "repository_url": "https://github.com/NavneethRamesh/SIH2026",
+    "description": "A passive wristband in which we use Lead Acetate to detect H2S in ATEX environments. The wristband has a reference strip using which, an app scans the difference in the color (using CIELAB) to determine the dosage of H2S the worker received in ppm.hr unit."
+  }
+]
